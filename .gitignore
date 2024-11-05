@@ -1,11 +1,5 @@
 # Data
-/data/
 
-# artefactos creados para el modelo.
-/artifacts/
-
-# modelos ya entrenados.
-/models/
 
 # Mac OS-specific storage files
 .DS_Store
