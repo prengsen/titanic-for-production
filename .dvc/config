@@ -1,0 +1,4 @@
+[core]
+    remote = s3-remote-titanic
+['remote "s3-remote-titanic"']
+    url = s3://data-remote-titanic
